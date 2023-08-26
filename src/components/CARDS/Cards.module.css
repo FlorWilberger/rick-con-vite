@@ -1,0 +1,13 @@
+.contenedorPrincipal{
+    
+        background-color: rgb(246, 245, 242);
+        display:flex;
+        flex-direction:row;
+        flex-wrap: wrap;
+        align-content:space-between;
+        justify-content: center;
+        align-items: center;
+    
+    
+
+}
